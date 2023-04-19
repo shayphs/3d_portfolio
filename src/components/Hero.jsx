@@ -19,9 +19,10 @@ const Hero = () => {
             interfaces and web applications
           </p>
         </div>
-
-        <ComputersCanvas />
       </div>
+          
+      <ComputersCanvas />
+      
     </section>
   )
 }
