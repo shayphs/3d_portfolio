@@ -42,19 +42,23 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Web Apps Developer",
+    subTitle: "Angular · React · Vue · Boostrap · Tailwind · Material · Fontawesome",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Hybrid Mobile Applications",
+    subTitle: "Capacitor · React Native · Full Responsive",
     icon: mobile,
   },
   {
     title: "Backend Developer",
+    subTitle: "Node · Express · Ejs · Mongodb · Mysql · PHP",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Visualization Data Creator",
+    subTitle: "Chartjs · AMcharts · Maps · Cytoscape · Canvas",
     icon: creator,
   },
 ];
@@ -116,13 +120,13 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Fullstack Developer",
+    company_name: "StockManaging",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "January 2021 - January 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using Angular/Express and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
